@@ -33,7 +33,8 @@ def retrieve_element_from_index(array, index)
 end
 
 def retrieve_first_element_from_array(array)
-  
+  my_array = array[0]
+  p my_array
 end
 
 def retrieve_last_element_from_array(array)
