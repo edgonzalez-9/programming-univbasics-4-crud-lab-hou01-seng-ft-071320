@@ -16,13 +16,13 @@ def add_element_to_start_of_array(array, element)
   a.unshift(element)
 end
 
-def remove_element_from_end_of_array(array)
-  array = []
-  b = array.pop
-  p b 
+def remove_element_from_end_of_array
+  a = ['I', 'am', 'really', 'learning', 'arrays!']
+  b = a.pop
+  p b
 end
 
-def remove_element_from_start_of_array(array)
+ay(array)
   
 end
 
